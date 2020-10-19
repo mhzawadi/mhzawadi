@@ -5,7 +5,7 @@
 - 📫 How to reach me: on here or [reddit](https://www.reddit.com/user/mhzawadi)
 - ⚡ Fun fact: cron wont run unless its a. installed and b. running
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mhzawadi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mhzawadi/mhzawadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
