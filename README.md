@@ -2,7 +2,10 @@
 
 - 🔭 I’m currently working on making more tools work on my pi collection
 - 🌱 I’m currently learning how to python
-- 📫 How to reach me: on here or [reddit](https://www.reddit.com/user/mhzawadi)
+- 📫 How to reach me:
+  - on here 
+  - [reddit](https://www.reddit.com/user/mhzawadi)
+  - [lemmy](https://lemmy.horwood.cloud/u/mhzawadi)
 - ⚡ Fun fact: cron wont run unless its a. installed and b. running
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mhzawadi)](https://github.com/anuraghazra/github-readme-stats)
