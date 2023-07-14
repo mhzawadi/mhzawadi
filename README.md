@@ -7,6 +7,7 @@
   - [reddit](https://www.reddit.com/user/mhzawadi)
   - [lemmy](https://lemmy.horwood.cloud/u/mhzawadi)
 - ⚡ Fun fact: cron wont run unless its a. installed and b. running
+- Like what I do? by me a [coffee](http://ko-fi.com/mhzawadi)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mhzawadi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
